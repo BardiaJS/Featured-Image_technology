@@ -1,0 +1,24 @@
+@media(max-width: 768px){
+    #component-div{
+        padding-top: 10%;
+    }
+
+
+
+
+
+
+    #text-component{
+        padding-bottom:0%;
+    }
+
+    #topic{
+        margin-bottom: 0%;
+    }
+
+    #logo{
+        margin-bottom: 5px;
+    }
+
+
+}
